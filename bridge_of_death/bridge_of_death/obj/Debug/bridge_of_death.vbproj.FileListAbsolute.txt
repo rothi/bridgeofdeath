@@ -1,0 +1,11 @@
+H:\Comp Program\bridge_of_death\bridge_of_death\bin\Debug\bridge_of_death.exe.config
+H:\Comp Program\bridge_of_death\bridge_of_death\bin\Debug\bridge_of_death.exe
+H:\Comp Program\bridge_of_death\bridge_of_death\bin\Debug\bridge_of_death.pdb
+H:\Comp Program\bridge_of_death\bridge_of_death\bin\Debug\bridge_of_death.xml
+H:\Comp Program\bridge_of_death\bridge_of_death\obj\Debug\bridge_of_death.vbprojResolveAssemblyReference.cache
+H:\Comp Program\bridge_of_death\bridge_of_death\obj\Debug\bridge_of_death.frmBridge.resources
+H:\Comp Program\bridge_of_death\bridge_of_death\obj\Debug\bridge_of_death.Resources.resources
+H:\Comp Program\bridge_of_death\bridge_of_death\obj\Debug\bridge_of_death.vbproj.GenerateResource.Cache
+H:\Comp Program\bridge_of_death\bridge_of_death\obj\Debug\bridge_of_death.exe
+H:\Comp Program\bridge_of_death\bridge_of_death\obj\Debug\bridge_of_death.xml
+H:\Comp Program\bridge_of_death\bridge_of_death\obj\Debug\bridge_of_death.pdb
